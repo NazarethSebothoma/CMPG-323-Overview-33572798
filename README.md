@@ -27,5 +27,5 @@ For secure credential storage I will make use of environment variables and of co
 I will have a .env file - a file for environment variables. This will allow me to use variables in my code and not credentials as they are. With the use of gitignore I will ignore the .env file which has my credentials.
 
 Resources:<br>
- <a href = "https://www.optimizely.com/optimization-glossary/trunk-based-development/">Trunk based development<a/> 
+ <a href = "https://www.optimizely.com/optimization-glossary/trunk-based-development/">Trunk based development<a/> <br>
  <a href = "https://www.youtube.com/watch?v=Rz886HkV1j4">Credentials Storage<a/>
