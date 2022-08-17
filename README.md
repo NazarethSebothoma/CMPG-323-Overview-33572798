@@ -18,9 +18,13 @@ That means I will have five repositories for five CMPG projects with one Github 
 <img src="repos-structure.png" width="500" title="Trunk based development">
   
   
-## gitignore file & Credentials Storage
+## gitignore file
+It is/will not be the case whereby I push everything that is on my local machine to github.
+There will be a lot of files that I would not want to push to github. For example, I will not push .log files. To achieve that I will use the gitignore file. The gitignore file will allow me to specify files that I want to ignore when pushing everything to github.  
   
 ## Credentials Storage
+For secure credential storage I will make use of environment variables and of course the gitignore file.
+I will have a .env file - a file for environment variables. This will allow me to use variables in my code and not credentials as they are. With the use of gitignore I will ignore the .env file which has my credentials.
 
 Links to resources:
 <a href = “https://www.optimizely.com/optimization-glossary/trunk-based-development/”>Trunk based development<a/>
