@@ -11,8 +11,9 @@ See below the diagram representation of the approach.
 
 ## Project and Repository Structure
 Every CMPG 323 project will have its own repository. However all the repositories will share a Github project. 
-That means I will have five repositories for five CMPG projects with one Github project.
+That means I will have five repositories for five CMPG projects with one Github project. This will help me to have clean repositories. Furthermore, it will help me with separating submissions.
 <br>See the diagram below for structural representation.
+
   
 <img src="repos-structure.png" width="500" title="Trunk based development">
   
