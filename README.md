@@ -6,7 +6,7 @@ My branching strategy for all my CMPG 323 projects is Trunk based development. T
 <a href = "https://trunkbaseddevelopment.com/">Read more<a/> about  Trunk based development
 
 See below the diagram representation of the approach.
-<img src="trunk-based-development.png" width="350" title="hover text">
+<img src="trunk-based-development.png" width="2000" title="Trunk based development">
 
 
 ## Project and Repository Structure
