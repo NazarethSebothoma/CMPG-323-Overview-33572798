@@ -6,7 +6,7 @@ My branching strategy for all my CMPG 323 projects is Trunk based development. T
 <a href = "https://trunkbaseddevelopment.com/">Read more<a/> about  Trunk based development
 
 See below the diagram representation of the approach.
-<img src="trunk-based-development.png" width="2000" title="Trunk based development">
+<img src="trunk-based-development.png" width="500" title="Trunk based development">
 
 
 ## Project and Repository Structure
@@ -14,8 +14,7 @@ Every CMPG 323 project will have its own repository. However all the repositorie
 That means I will have five repositories for five CMPG projects with one Gitthub project.
 
 See the diagram below for structural representation.
-<img src="repos-structure.png" width="200" title="Trunk based development">
-repos-structure.png
+<img src="repos-structure.png" hight="500" width="500" title="Trunk based development">
   
   
   ## .gitignore file & Credentials Storage
