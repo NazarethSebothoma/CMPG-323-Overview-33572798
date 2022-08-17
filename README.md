@@ -26,7 +26,6 @@ There will be a lot of files that I would not want to push to github. For exampl
 For secure credential storage I will make use of environment variables and of course the gitignore file.
 I will have a .env file - a file for environment variables. This will allow me to use variables in my code and not credentials as they are. With the use of gitignore I will ignore the .env file which has my credentials.
 
-Links to resources:
+Resources:<br>
 <a href = “https://www.optimizely.com/optimization-glossary/trunk-based-development/”>Trunk based development<a/>
-<a href = “#”><a/>
-<a href = “#”><a/>
+<a href = “https://www.youtube.com/watch?v=Rz886HkV1j4”>Credentials Storage<a/>
