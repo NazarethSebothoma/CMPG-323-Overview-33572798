@@ -30,4 +30,4 @@ Resources:<br>
 <a href=“https://www.optimizely.com/optimization-glossary/trunk-based-development/”>Trunk based development<a/>
 <a href = “https://www.youtube.com/watch?v=Rz886HkV1j4”>Credentials Storage<a/>
   
- <a href = "https://www.youtube.com/watch?v=Rz886HkV1j4">Read more<a/>
+ <a href = "https://www.youtube.com/watch?v=Rz886HkV1j4">Credentials Storage<a/>
