@@ -10,12 +10,14 @@ See below the diagram representation of the approach.
 
 
 ## Project and Repository Structure
-Every CMPG 323 project will have its own repository. However all the repositories will share a project - Kanban project. 
-That means I will have 5 repositories for 5 CMPG projects with 1 kanban project.
+Every CMPG 323 project will have its own repository. However all the repositories will share a Gitthub project. 
+That means I will have five repositories for five CMPG projects with one Gitthub project.
 See the diagram below for structural representation.
+  
+  
+  ## .gitignore file & Credentials Storage
 
 Links to resources:
-<a href = “https://trunkbaseddevelopment.com/”>Trunk based development<a/>
-<a href = “#”><a/>
+<a href = “https://www.optimizely.com/optimization-glossary/trunk-based-development/”>Trunk based development<a/>
 <a href = “#”><a/>
 <a href = “#”><a/>
