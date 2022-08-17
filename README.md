@@ -1,12 +1,13 @@
 # CMPG-323-Overview-33572798
-## Branching Strategies
-I will use trunk-based development as my branching strategy for my projects.
-trunk-based development is a branching strategy that will allow me to make changes directly to my main brach.
-This is how it works, everytime I want to make changes I will create a temporary branch, make my changes on it, then test if the
-changes I made do not affect my program in a bad way or do not have bugs. If there are no bugs I then marge my changes to the main brach.
-The changes I will be making will not be very major, and as a result it will be very simple to catch bugs. This strategy promotes continuous integration.
+This is my main repository for all my CMPG323 project.
+Each project will have its own repository but they will all have acces to this repositiry. This repository is a shared repository.
 
-<a href = "https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/"> Read more<a/>
+## Branching Strategies
+My branching strategy for all my CMPG 323 projects is Trunk based development. Trunk based development is a strategy whereby the developer(s) merge changes directly to the main branch(trunk).By changes I am refering to small frequet updates. This practice promotes continuous development.
+<a href = "https://trunkbaseddevelopment.com/">Read more<a/> about  Trunk based development
+
+See below the diagram representation of the approach.
+
 
 ## Project and Repository Structure
 Every project(Project 1-5) in this module  will have its repository but they will be sharing 1 kanban project. 
