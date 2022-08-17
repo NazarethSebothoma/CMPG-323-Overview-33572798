@@ -18,7 +18,9 @@ That means I will have five repositories for five CMPG projects with one Github 
 <img src="repos-structure.png" width="500" title="Trunk based development">
   
   
-  ## .gitignore file & Credentials Storage
+## gitignore file & Credentials Storage
+  
+## Credentials Storage
 
 Links to resources:
 <a href = “https://www.optimizely.com/optimization-glossary/trunk-based-development/”>Trunk based development<a/>
