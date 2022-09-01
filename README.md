@@ -32,9 +32,15 @@ Resources:<br>
    
 ## Graphs
    # Status
+   <img src="repos-structure.png" width="500" title="Status">
    
-   #sprint
-   #Label
-   #Burndown
+   # sprint
+   <img src="repos-structure.png" width="500" title="sprint">
+   
+   # Label
+   <img src="repos-structure.png" width="500" title="Label">
+   
+   # Burndown
+   <img src="repos-structure.png" width="500" title="Burndown">
 
    
