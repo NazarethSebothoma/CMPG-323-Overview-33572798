@@ -29,3 +29,12 @@ I will have a .env file - a file for environment variables. This will allow me t
 Resources:<br>
  <a href = "https://www.optimizely.com/optimization-glossary/trunk-based-development/">Trunk based development<a/> <br>
  <a href = "https://www.youtube.com/watch?v=Rz886HkV1j4">Credentials Storage<a/>
+   
+## Graphs
+   # Status
+   
+   #sprint
+   #Label
+   #Burndown
+
+   
