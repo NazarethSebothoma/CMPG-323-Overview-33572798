@@ -46,5 +46,14 @@ Resources:<br>
    # Link
    <a href = "https://github.com/users/NazarethSebothoma/projects/3/insights">Graphs<a/>
    
+## Progress
+I have successfully completed all my CMPG323 projects and linked them to my github project.
+*<a href = "https://github.com/NazarethSebothoma/CMPG-323-Overview-33572798.git">Project 1<a/>
+*<a href = "https://github.com/NazarethSebothoma/CMPG323-Project-2-33572798.git">Project 2<a/>
+*<a href = "https://github.com/NazarethSebothoma/CMPG323-Projet-3-33572798.git">Project 3<a/>
+*<a href = "https://github.com/NazarethSebothoma/CMPG-323-Project-4-33572798.git">Project 4<a/>
+*<a href = "https://github.com/NazarethSebothoma/CMPG-323-Project-5-33572798.git">Project 5<a/>
+
+
 
    
